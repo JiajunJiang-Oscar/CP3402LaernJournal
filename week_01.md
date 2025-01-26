@@ -29,10 +29,10 @@ can see the philosophy of our store, why we crate this coffee shop and our sugge
 coffee. Also, all the customers can contact us by this website and know where we are.
 ## References:
 * [My website](https://oscarcampcoffeesite.z7.web.core.windows.net/)
-* [My GitHub journal repository]()
+* [My GitHub journal repository](https://github.com/JiajunJiang-Oscar/CP3402LaernJournal/tree/main)
 * [Microsoft Azure Learn](https://learn.microsoft.com/zh-cn/training/azure/)
 * [LinkedIn Learning Videos - Introduction to Web Design and Development](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?resume=false&u=2223545)
-My CP1406 previous assignments, study notes
+* My CP1406 previous assignments, study notes
 ## Estimated Hours:
 * Spend 2 hours on review web design again
 * Spend 3 hours on do the practical
