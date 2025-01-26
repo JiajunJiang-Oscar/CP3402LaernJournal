@@ -22,3 +22,26 @@ files need to be uploaded separately for Azure to recognize correctly. When I pu
 problem occurred again, this time the images and CSS in my files were not recognized by Azure, I realized that there 
 were problems with the images and CSS paths in my HTML files, and then I tried to upload my CSS and images files as 
 folders again, and this time the problem was successfully solved.
+## Practical:
+For my startup business, I plan to make a website for a coffee shop called Camp Coffee, in the website, the customer 
+can see what product we have and knows about our coffee menu, for the people whose are also interested in coffee, they 
+can see the philosophy of our store, why we crate this coffee shop and our suggestions for different ways of making 
+coffee. Also, all the customers can contact us by this website and know where we are.
+## References:
+* [My website](https://oscarcampcoffeesite.z7.web.core.windows.net/)
+* [My GitHub journal repository]()
+* [Microsoft Azure Learn](https://learn.microsoft.com/zh-cn/training/azure/)
+* [LinkedIn Learning Videos - Introduction to Web Design and Development](https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/choosing-an-editor-for-writing-code?resume=false&u=2223545)
+My CP1406 previous assignments, study notes
+## Estimated Hours:
+* Spend 2 hours on review web design again
+* Spend 3 hours on do the practical
+* Spend 3 hours on watch videos on LinkedIn Learning
+## Content Insights:
+Reviewing web design is a great help for me to learn about content management system, because web design is the 
+foundation of CMS, and designing web pages according to user needs (UX) is a very important part of design, as well 
+as CSS, layouts, colours, and other parts of the website, all play an important role in attracting potential users.
+## Career/Employability/Learning Insights:
+The web design and development are mainly for understand user needs, design and crate websites, which can let me know 
+how to publish a website, how to create website and how to beautify the style of the site. It may help me better 
+complete the tasks at work in the future.
