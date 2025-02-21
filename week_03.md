@@ -2,7 +2,7 @@
 Name: Jiajun Jiang
 Week: Week 3
 ## Learning Activities & Resources:
-In the second week of CP3402 (Content management system), I explored and understood the basic functions of WordPress, 
+In the third week of CP3402 (Content management system), I explored and understood the basic functions of WordPress, 
 including plugins and navigation. It is very similar to Joomla, but themes features are more perfect.
 
 WordPress provides a user-friendly navigation interface that sits in a dashboard with Posts, Pages, Media, Appearance, 
